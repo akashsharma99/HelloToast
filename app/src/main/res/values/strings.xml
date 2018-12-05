@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="toastcolor">TOAST</string>
+    <string name="counter">COUNT</string>
+    <string name="countString">0</string>
+    <string name="toast_message">Hello World!</string>
+    <string name="c1">#ff0000</string>
+    <string name="c2">#ffee00</string>
+    <string name="c3">#ff0099</string>
+    <string name="c4">#000db0</string>
+    <string name="c5">#00a000</string>
+    <string name="c6">#ffc666</string>
+    <string name="c7">#ffc0cb</string>
+    <string name="c8">#008000</string>
+    <string name="c9">#ffff00</string>
+    <string name="c0">#0000ff</string>
+</resources>
