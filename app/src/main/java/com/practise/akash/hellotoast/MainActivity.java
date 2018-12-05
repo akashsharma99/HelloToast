@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     {
         switch(mCount%10)
         {
-            case 0:return "#ff0000";
+            case 0:return "#ff0110";
             case 1:return "#ffee00";
             case 2:return "#ff0099";
             case 3:return "#000db0";
